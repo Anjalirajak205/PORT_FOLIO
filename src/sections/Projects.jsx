@@ -24,7 +24,7 @@ const Projects = () => {
       demo: '#'
     },
     // {
-    //   title: 'Library Management System',
+    //   title: 'Tic Tac Toe Game',
     //   description: 'An library book manager system supporting book issues, overdue records, member registers, and real-time inventory management synced with an integrated backend database.',
     //   image: '/library_management.png',
     //   tags: ['Java', 'SQL', 'Relational Databases', 'OOP Design'],

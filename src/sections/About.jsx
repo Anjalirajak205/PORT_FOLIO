@@ -54,17 +54,17 @@ const About = () => {
                 Hello! I am Anjali Rajak, a Computer Science Engineering student currently pursuing my Bachelor of Technology degree at Baderia Global Institute of Engineering and Management. 
               </p>
               <p className="text-slate-600 dark:text-slate-350 leading-relaxed">
-                My passion for programming started when I wrote my first line of Java. Since then, I have dedicated myself to mastering the language, diving deep into its object-oriented patterns, garbage collection internals, and standard library components. I thrive on translating logical flow charts into high-performance source code.
+                I am passionate about creating interactive and user-friendly web applications. With experience in HTML, CSS, JavaScript, and React, I enjoy transforming ideas into responsive and visually appealing interfaces. I continuously explore new technologies and best practices to build efficient, scalable, and engaging digital experiences.
               </p>
               <div className="pt-4 border-t border-slate-100 dark:border-slate-800/60 flex justify-between items-center text-sm font-medium">
                 <div>
                   <span className="text-slate-400 block text-xs">COLLEGE</span>
-                  <span className="text-slate-800 dark:text-slate-200">Baderia Global Institute (CSE)</span>
+                  <span className="text-slate-800 dark:text-slate-200">Baderia Global Institute of Engineering and Management(CSE)</span>
                 </div>
-                <div>
+                {/* <div>
                   <span className="text-slate-400 block text-xs">EXPECTED GRADUATION</span>
                   <span className="text-slate-800 dark:text-slate-200">June 2025</span>
-                </div>
+                </div> */}
               </div>
             </div>
           </motion.div>

@@ -82,7 +82,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="text-base sm:text-lg text-slate-600 dark:text-slate-350 max-w-xl leading-relaxed"
           >
-            I am a Computer Science Engineering student with strong skills in Java, C++, JavaScript, Data Structures & Algorithms, and Web Development. I enjoy building responsive web applications and continuously learning new technologies to solve real-world problems.
+            I am a Computer Science Engineering student with strong skills in Java, C++, JavaScript, Data Structures & Algorithms. I enjoy building responsive web applications and continuously learning new technologies to solve real-world problems.
           </motion.p>
 
           {/* Social Icons links */}
